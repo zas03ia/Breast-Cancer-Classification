@@ -18,4 +18,4 @@ Model Training and Evaluation:
 4. Evaluating models using accuracy, confusion matrices, precision, recall, and F1-score.
 
 Model Comparison and Visualization:
-1. Comparing the performance of different models using bar plots to visualize their accuracies
+1. Comparing the performance of different models using bar plots to visualize their accuracies.
